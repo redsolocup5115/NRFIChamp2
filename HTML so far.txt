@@ -1,0 +1,172 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zyir{background-color:#003047;border-color:#000000;font-family:Verdana, Geneva, sans-serif !important;font-size:22px;
+  text-align:center;vertical-align:top}
+.tg .tg-s6su{background-color:#003047;border-color:#003047;color:#ffffff;font-family:Verdana, Geneva, sans-serif !important;
+  font-size:18px;text-align:center;vertical-align:top}
+.tg .tg-bs5a{background-color:#003047;border-color:#003047;color:#ffffff;font-family:Verdana, Geneva, sans-serif !important;
+  text-align:center;vertical-align:top}
+.tg .tg-nvux{background-color:#00111a;border-color:#00111a;text-align:left;vertical-align:top}
+.tg .tg-hune{background-color:#001b29;border-color:#001b29;color:#ffffff;font-family:Verdana, Geneva, sans-serif !important;
+  font-size:14px;text-align:center;vertical-align:top}
+.tg .tg-dh0a{background-color:#00111a;border-color:#00111a;font-family:Verdana, Geneva, sans-serif !important;text-align:center;
+  vertical-align:top}
+.tg .tg-ttne{background-color:#003047;border-color:#003047;font-family:Verdana, Geneva, sans-serif !important;text-align:center;
+  vertical-align:top}
+.tg .tg-p1lm{background-color:#001b29;border-color:#001b29;font-family:Verdana, Geneva, sans-serif !important;text-align:center;
+  vertical-align:top}
+.tg .tg-8ogq{background-color:#003047;border-color:#000000;color:#fe0000;font-family:Verdana, Geneva, sans-serif !important;
+  font-size:22px;text-align:center;vertical-align:top}
+.tg .tg-cs5x{background-color:#003047;border-color:#003047;color:#ffffff;font-family:Verdana, Geneva, sans-serif !important;
+  font-size:15px;text-align:center;vertical-align:top}
+.tg .tg-jqnn{background-color:#001b29;border-color:#001b29;color:#efefef;font-family:Verdana, Geneva, sans-serif !important;
+  font-size:14px;text-align:center;vertical-align:top}
+.tg .tg-y5py{background-color:#003047;border-color:#003047;font-family:Verdana, Geneva, sans-serif !important;font-size:18px;
+  text-align:center;vertical-align:top}
+.tg .tg-6wgv{background-color:#00111a;border-color:#001b29;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 513px"><colgroup>
+<col style="width: 51px">
+<col style="width: 163px">
+<col style="width: 91px">
+<col style="width: 163px">
+<col style="width: 45px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-nvux" rowspan="27"></td>
+    <td class="tg-nvux" colspan="3"></td>
+    <td class="tg-nvux" rowspan="27"></td>
+  </tr>
+  <tr>
+    <td class="tg-8ogq"><span style="color:#9A0000">awayBet</span></td>
+    <td class="tg-dh0a"></td>
+    <td class="tg-zyir"><span style="color:#009901">homeBet</span></td>
+  </tr>
+  <tr>
+    <td class="tg-p1lm">awayLogo</td>
+    <td class="tg-dh0a"></td>
+    <td class="tg-p1lm">homeLogo</td>
+  </tr>
+  <tr>
+    <td class="tg-s6su">awayTeam</td>
+    <td class="tg-cs5x">gameTime</td>
+    <td class="tg-s6su">homeTeam</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayPitcher</td>
+    <td class="tg-ttne"></td>
+    <td class="tg-hune">homePitcher</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayTotal</td>
+    <td class="tg-bs5a">Total Game</td>
+    <td class="tg-jqnn">homeTotal</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayTBF</td>
+    <td class="tg-bs5a">TBF</td>
+    <td class="tg-jqnn">homeTBF</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayERA</td>
+    <td class="tg-bs5a">ERA</td>
+    <td class="tg-jqnn">homeERA</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayH</td>
+    <td class="tg-bs5a">H</td>
+    <td class="tg-jqnn">homeH</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">away2B</td>
+    <td class="tg-bs5a">2B</td>
+    <td class="tg-jqnn">home2B</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">away3B</td>
+    <td class="tg-bs5a">3B</td>
+    <td class="tg-jqnn">home3B</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayR</td>
+    <td class="tg-bs5a">R</td>
+    <td class="tg-jqnn">homeR</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayHR</td>
+    <td class="tg-bs5a">HR</td>
+    <td class="tg-jqnn">homeHR</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayBB</td>
+    <td class="tg-bs5a">BB</td>
+    <td class="tg-jqnn">homeBB</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awaySS</td>
+    <td class="tg-bs5a">SS</td>
+    <td class="tg-jqnn">homeSS</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayOBP</td>
+    <td class="tg-bs5a">OBP</td>
+    <td class="tg-jqnn">homeOBP</td>
+  </tr>
+  <tr>
+    <td class="tg-dh0a"></td>
+    <td class="tg-dh0a"></td>
+    <td class="tg-dh0a"></td>
+  </tr>
+  <tr>
+    <td class="tg-s6su">awayTeam</td>
+    <td class="tg-y5py"></td>
+    <td class="tg-s6su">homeTeam</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayteamRank</td>
+    <td class="tg-bs5a">Rank</td>
+    <td class="tg-hune">hometeamRank</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayteamERA</td>
+    <td class="tg-bs5a">ERA</td>
+    <td class="tg-hune">hometeamERA</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayetamH</td>
+    <td class="tg-bs5a">H</td>
+    <td class="tg-hune">hometeamH</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayteamR</td>
+    <td class="tg-bs5a">R</td>
+    <td class="tg-hune">hometeamR</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayteamRBI</td>
+    <td class="tg-bs5a">RBI</td>
+    <td class="tg-hune">hometeamRBI</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayteamBB</td>
+    <td class="tg-bs5a">BB</td>
+    <td class="tg-hune">hometeamBB</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayteamSO</td>
+    <td class="tg-bs5a">SO</td>
+    <td class="tg-hune">hometeamSO</td>
+  </tr>
+  <tr>
+    <td class="tg-hune">awayteamAVG</td>
+    <td class="tg-bs5a">AVG</td>
+    <td class="tg-hune">hometeamAVG</td>
+  </tr>
+  <tr>
+    <td class="tg-6wgv" colspan="3"></td>
+  </tr></thead></table>
